@@ -34,7 +34,7 @@ With this tool, you’ll be able to translate mods quickly and automatically, wi
 ## Project Status
 The **Universal Translator** is currently under development, with many features being refined to ensure the best possible experience. Stay tuned for updates and news about the initial release!
 
-Español - ES: Traductor Universal - Starbound
+# Español - ES: Traductor Universal - Starbound
 
 ¡Este proyecto está actualmente en desarrollo y será lanzado al público pronto!
 
