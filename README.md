@@ -1,5 +1,4 @@
-# Português - BR
-# Tradutor Universal - Starbound
+# Português - BR: Tradutor Universal - Starbound
 
 Este projeto está em fase de desenvolvimento e será lançado ao público em breve!
 
@@ -17,8 +16,7 @@ Com essa ferramenta, você poderá traduzir mods de forma rápida e automática,
 ## Status do Projeto
 Atualmente, o **Tradutor Universal** está em desenvolvimento, e muitas funcionalidades estão sendo ajustadas para garantir a melhor experiência possível. Fique de olho para atualizações e novidades sobre o lançamento da versão inicial!
 
-# English - US
-# Universal Translator - Starbound
+# English - US: Universal Translator - Starbound
 
 This project is currently in development and will be released to the public soon!
 
@@ -36,8 +34,7 @@ With this tool, you’ll be able to translate mods quickly and automatically, wi
 ## Project Status
 The **Universal Translator** is currently under development, with many features being refined to ensure the best possible experience. Stay tuned for updates and news about the initial release!
 
-Español - ES
-# Traductor Universal - Starbound
+Español - ES: Traductor Universal - Starbound
 
 ¡Este proyecto está actualmente en desarrollo y será lanzado al público pronto!
 
@@ -55,8 +52,7 @@ Con esta herramienta, podrás traducir mods de manera rápida y automática, sin
 ## Estado del Proyecto
 Actualmente, el **Traductor Universal** está en desarrollo, y muchas de sus funcionalidades están siendo ajustadas para garantizar la mejor experiencia posible. ¡Mantente atento a las actualizaciones y novedades sobre el lanzamiento de la versión inicial!
 
-# Français - FR
-# Traducteur Universel - Starbound
+# Français - FR: Traducteur Universel - Starbound
 
 Ce projet est actuellement en développement et sera bientôt disponible pour le public !
 
@@ -74,8 +70,7 @@ Avec cet outil, vous pourrez traduire des mods rapidement et automatiquement, sa
 ## Statut du projet
 Le **Traducteur Universel** est actuellement en développement, et de nombreuses fonctionnalités sont en cours d'ajustement pour garantir la meilleure expérience possible. Restez à l'écoute pour les mises à jour et les actualités concernant la sortie de la version initiale!
 
-# Deutsch - DE
-# Universeller Übersetzer - Starbound
+# Deutsch - DE: Universeller Übersetzer - Starbound
 
 Dieses Projekt befindet sich derzeit in der Entwicklung und wird bald der Öffentlichkeit zugänglich gemacht!
 
